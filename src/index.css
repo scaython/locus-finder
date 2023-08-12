@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.leaflet-container{
+  width: 880px;
+  height: 480px;
+  border-radius: 15px;
+}
+
